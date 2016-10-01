@@ -1,0 +1,2 @@
+defmodule AnonymousId do
+end
